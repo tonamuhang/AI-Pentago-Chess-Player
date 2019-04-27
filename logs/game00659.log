@@ -1,0 +1,24 @@
+# Server version 0.08 running on 142.157.7.146:8123
+# Game ID: 659
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 17:43:01 EDT 2019
+# Player 1: Player-0, '260711526', running on 142.157.112.163
+# Player 2: Player-1, '260736135', running on 142.157.7.146
+START Player-0 260711526
+START Player-1 260736135
+1 1 TR BR 0
+0 1 TL TR 1
+5 5 TL BL 0
+0 3 TR BR 1
+5 5 BL BR 0
+3 2 TL BR 1
+5 5 TL BR 0
+0 1 TR BR 1
+5 4 TL BR 0
+0 5 TR BR 1
+5 5 TR BL 0
+3 2 TR BR 1
+GAMEOVER WINNER 1
+# Game ended: Wed Apr 10 17:43:20 EDT 2019

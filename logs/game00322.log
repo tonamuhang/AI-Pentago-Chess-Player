@@ -1,0 +1,34 @@
+# Server version 0.08 running on 142.157.55.211:8123
+# Game ID: 322
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Mon Apr 08 21:24:19 EDT 2019
+# Player 1: Player-0, 'SimonBot', running on localhost
+# Player 2: Player-1, '260736135', running on 142.157.55.211
+START Player-0 SimonBot
+START Player-1 260736135
+0 0 TL TR 0
+0 0 TL TR 1
+0 1 TL TR 0
+0 1 TL BR 1
+0 0 TL TR 0
+0 2 TL TR 1
+0 1 TL TR 0
+0 5 TL TR 1
+1 0 TL TR 0
+1 0 TR BR 1
+0 5 TL TR 0
+1 0 TL BR 1
+1 1 TL TR 0
+1 1 TL BL 1
+0 0 TL TR 0
+0 4 TL BL 1
+0 5 TL TR 0
+1 0 TL BL 1
+1 2 TL TR 0
+1 2 TL BL 1
+1 1 TL TR 0
+2 2 BL BR 1
+GAMEOVER WINNER 1
+# Game ended: Mon Apr 08 21:24:19 EDT 2019
